@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.7a7733b5.chunk.css",
+    "main.js": "/personal-website/static/js/main.7b1b75a3.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.7b1b75a3.chunk.js.map",
+    "runtime-main.js": "/personal-website/static/js/runtime-main.7f7cff07.js",
+    "runtime-main.js.map": "/personal-website/static/js/runtime-main.7f7cff07.js.map",
+    "static/js/2.ade227b9.chunk.js": "/personal-website/static/js/2.ade227b9.chunk.js",
+    "static/js/2.ade227b9.chunk.js.map": "/personal-website/static/js/2.ade227b9.chunk.js.map",
+    "index.html": "/personal-website/index.html",
+    "precache-manifest.d58cda8116a429052b000732a8880e4d.js": "/personal-website/precache-manifest.d58cda8116a429052b000732a8880e4d.js",
+    "service-worker.js": "/personal-website/service-worker.js",
+    "static/css/main.7a7733b5.chunk.css.map": "/personal-website/static/css/main.7a7733b5.chunk.css.map",
+    "static/js/2.ade227b9.chunk.js.LICENSE.txt": "/personal-website/static/js/2.ade227b9.chunk.js.LICENSE.txt",
+    "static/media/berkeley.jpg": "/personal-website/static/media/berkeley.62277c1e.jpg",
+    "static/media/breakout.jpg": "/personal-website/static/media/breakout.fbfccf0d.jpg",
+    "static/media/cs61a.jpg": "/personal-website/static/media/cs61a.0ed565e5.jpg",
+    "static/media/highschool.jpg": "/personal-website/static/media/highschool.1a2f454f.jpg",
+    "static/media/p5.jpg": "/personal-website/static/media/p5.0bcb6f9b.jpg",
+    "static/media/question.jpg": "/personal-website/static/media/question.910438d9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f7cff07.js",
+    "static/js/2.ade227b9.chunk.js",
+    "static/css/main.7a7733b5.chunk.css",
+    "static/js/main.7b1b75a3.chunk.js"
+  ]
+}
